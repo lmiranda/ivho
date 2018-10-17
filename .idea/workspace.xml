@@ -76,6 +76,7 @@
     <session id="-967096233">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -127,6 +128,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -1338,9 +1342,9 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/client/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1085" />
+    <option name="width" value="1920" />
     <option name="height" value="1140" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -1404,6 +1408,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -1444,6 +1449,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -1537,6 +1543,7 @@
       <setting name="grailsApplicationRoot" value="$PROJECT_DIR$/server" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -1557,15 +1564,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539744243061</updated>
-      <workItem from="1539744245876" duration="2753000" />
+      <workItem from="1539744245876" duration="3935000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2753000" />
+    <option name="totallyTimeSpent" value="3935000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1140" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1140" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
@@ -1583,7 +1590,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32919848" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32919848" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32919848" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
